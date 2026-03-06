@@ -20,3 +20,5 @@ chmod +x server-stats.sh
 Run script:
 
 ./server-stats.sh
+
+Project URL : https://roadmap.sh/projects/server-stats
