@@ -22,3 +22,6 @@ Run script:
 ./server-stats.sh
 
 Project URL : https://roadmap.sh/projects/server-stats
+=======
+![output](\\wsl.localhost\Ubuntu\home\sathya\devops-practice\server-monitor\server_monitor_output.png)
+
